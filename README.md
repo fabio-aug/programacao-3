@@ -1,6 +1,6 @@
 # Programação 3
 
-<div style="display: flex">
+<div style="display: flex; flex-direction: row;">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
